@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Tae%20Hyun%20Park&fontSize=90&fontColor=FFFFFF&animation=fadeIn)
 ### Nice to meet you 👋
 
 I'm majoring Department of Software, Gachon University.<br>
@@ -34,4 +35,4 @@ My goal is to be a developer who constantly talks and thinks. It's in progress!
 
 🙏Contribute🙏
 ---
-![Taehyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taehyuny&show_icons=true&theme=dark&bg_color=#3399ff)
+![Taehyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taehyuny&show_icons=true&theme=onedark&bg_color=#000000)
